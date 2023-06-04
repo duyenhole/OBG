@@ -1,0 +1,4 @@
+/home/duyenho/workspace/obg_manager/build/CMakeFiles/rebuild_cache.dir
+/home/duyenho/workspace/obg_manager/build/CMakeFiles/edit_cache.dir
+/home/duyenho/workspace/obg_manager/build/CMakeFiles/obgmanager.dir
+/home/duyenho/workspace/obg_manager/build/CMakeFiles/obgapp.dir

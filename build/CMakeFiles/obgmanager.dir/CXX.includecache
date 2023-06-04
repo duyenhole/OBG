@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duyenho/workspace/obg_manager/obgmanager.cpp
+iomanip
+-
+iostream
+-
+sstream
+-
+condition_variable
+-
+thread
+-
+vsomeip/vsomeip.hpp
+-
+
